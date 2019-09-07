@@ -23,6 +23,6 @@ Now,Navigate to http://localhost:3000 and login with admin and initial password 
 3)Click Explore icon
 
 4)Check existing logs, just open Log labels
-  You can get logs for apps, containers, instances etc 
+  You can get logs for apps, containers, instances etc. For example, if you want logs for any specific app, select apps and then select the name of the app. 
 
-Select any to get required logs !!!
+You will have your required logs !!!
