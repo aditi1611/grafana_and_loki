@@ -12,7 +12,7 @@ To install Grafana on your cluster with helm, use the following command:
 
  $ helm install stable/grafana -n loki-grafana
 
- $kubectl port-forward  service/loki-grafana 3000:3000
+ $ kubectl port-forward  service/loki-grafana 3000:3000 &
  
 Now,Navigate to http://localhost:3000 and login with admin and initial password as admin, then set your desired password
 
